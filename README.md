@@ -7,4 +7,8 @@ Ho creato il layout di base per la Home page, in più ho creato altre due pagine
     2a.Per modificarlo andare su style.css (in fondo)
     2b.Questa è una pagina test perchè il login dovrebbe funzionare come un pop up
 ***********************************************************************************************************************************
-
+-Davide D.A. : Gestione Livello 4 Sito
+ Sezione di accesso esclusivo dell'amministratore, e da qui:
+ 1. Creazione/modifica/cancellazione utenti staff, indicati con nome, cognome, user e password;
+ 2. Cancellazione di utenti registrati.
+        
